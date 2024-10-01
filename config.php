@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
-$username = "loginuser";  // Use the MariaDB username you created
-$password = "password";    // Use the MariaDB password you set
+$username = "root";  // Use the MariaDB username you created
+$password = "root";    // Use the MariaDB password you set
 $dbname = "loginapp";      // Use the database name you created
 
 // Create connection
