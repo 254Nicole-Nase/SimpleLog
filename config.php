@@ -2,7 +2,7 @@
 $servername = "localhost";
 $username = "root";  // Use the MariaDB username you created
 $password = "root";    // Use the MariaDB password you set
-$dbname = "loginapp";      // Use the database name you created
+$dbname = "CAT1";      // Use the database name you created
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
